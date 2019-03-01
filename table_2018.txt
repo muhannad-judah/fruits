@@ -1,8 +1,10 @@
-windows 100
+windows 100  nice
 
 windows 12
 
 windows 15
 
 windows 88
+
+
 
