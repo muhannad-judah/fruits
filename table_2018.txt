@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-windows 15
-=======
+windows 10
 windows 8
->>>>>>> de734b64dc11107fb4bc3aab2e8e17836eb53734
+
